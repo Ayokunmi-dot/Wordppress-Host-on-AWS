@@ -92,12 +92,11 @@ mount -a
 sudo chown apache:apache -R /var/www/html
 sudo service httpd restart
 ```
-
+![Architecture Diagram](Wordpress_Host_on_AWS_Architecture.png)
 
 ```
 
-### Architecture Diagram
-![Architecture Diagram](Wordpress_Host_on_AWS_Architecture.png)
+
 
 ## Deployment Verification
 1. Ensure EC2 instances are running and accessible.
