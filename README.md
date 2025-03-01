@@ -97,7 +97,7 @@ sudo service httpd restart
 ```
 
 ### Architecture Diagram
-![Architecture Diagram](architecture/reference-diagram.png)
+![Architecture Diagram](2._Host_a_WordPress_Website_on_AWS.png)
 
 ## Deployment Verification
 1. Ensure EC2 instances are running and accessible.
